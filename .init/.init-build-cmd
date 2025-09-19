@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/local-tic-tac-toe-55319-55341/tic_tac_toe_frontend"
+}
